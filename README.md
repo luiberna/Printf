@@ -151,9 +151,3 @@ This design keeps the code compact and naturally builds the output left-to-right
 - **`%s` with NULL** prints `(null)`.
 - **`%p` with NULL** prints `(nil)`.
 - Output is done with `write(1, ...)` for compatibility with 42 constraints.
-
----
-
-## License
-
-This repository is a school project implementation. Use it for learning and reference.
